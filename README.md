@@ -14,3 +14,5 @@ acc4: username:ss
       pin:444
 
 They can send money to each other, delete accounts, request a loan and all that is going to be saved in field
+
+Languages: Vanilla JavaScript
