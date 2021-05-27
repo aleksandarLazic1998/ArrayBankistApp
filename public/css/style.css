@@ -1,9 +1,4 @@
-/*
- * Use this CSS to learn some intersting techniques,
- * in case you're wondering how I built the UI.
- * Have fun! 😁
- */
-
+/* Selecting all elements*/
 * {
   margin: 0;
   padding: 0;
@@ -22,7 +17,7 @@ body {
   height: 100vh;
   padding: 2rem;
 }
-
+/* Navigation Section */
 nav {
   display: flex;
   justify-content: space-between;
@@ -83,7 +78,7 @@ nav {
   color: #777;
 }
 
-/* MAIN */
+/* MAIN Section*/
 .app {
   position: relative;
   max-width: 100rem;
@@ -243,9 +238,11 @@ h2 {
 .form.form--loan {
   grid-template-columns: 2.5fr 1fr 2.5fr;
 }
+
 .form__label--loan {
   grid-row: 2;
 }
+
 /* End exceptions */
 
 .form__input {
